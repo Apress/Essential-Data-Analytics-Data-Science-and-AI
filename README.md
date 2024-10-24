@@ -7,6 +7,8 @@ This repository accompanies [*Essential Data Analytics, Data Science, and AI*](h
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
+Additonal material can be found here: https://drive.google.com/drive/folders/1gPippVD4LmZ0T32QA4qGu1ZU9yxXey4T?usp=sharing
+
 ## Releases
 
 Release v1.0 corresponds to the code in the published book, without corrections or updates.
